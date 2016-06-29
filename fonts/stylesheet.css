@@ -1,0 +1,141 @@
+
+
+@font-face {
+    font-family: 'majesti_banner_boldregular';
+    src: url('majestibannerbold-webfont.eot');
+    src: url('majestibannerbold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('majestibannerbold-webfont.woff2') format('woff2'),
+         url('majestibannerbold-webfont.woff') format('woff'),
+         url('majestibannerbold-webfont.svg#majesti_banner_boldregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'majesti_banner_bolditalicRg';
+    src: url('majestibannerbolditalic-webfont.eot');
+    src: url('majestibannerbolditalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('majestibannerbolditalic-webfont.woff2') format('woff2'),
+         url('majestibannerbolditalic-webfont.woff') format('woff'),
+         url('majestibannerbolditalic-webfont.svg#majesti_banner_bolditalicRg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'majesti_banner_bookregular';
+    src: url('majestibannerbook-webfont.eot');
+    src: url('majestibannerbook-webfont.eot?#iefix') format('embedded-opentype'),
+         url('majestibannerbook-webfont.woff2') format('woff2'),
+         url('majestibannerbook-webfont.woff') format('woff'),
+         url('majestibannerbook-webfont.svg#majesti_banner_bookregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'majesti_banner_bookitalicRg';
+    src: url('majestibannerbookitalic-webfont.eot');
+    src: url('majestibannerbookitalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('majestibannerbookitalic-webfont.woff2') format('woff2'),
+         url('majestibannerbookitalic-webfont.woff') format('woff'),
+         url('majestibannerbookitalic-webfont.svg#majesti_banner_bookitalicRg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'majesti_banner_heavyregular';
+    src: url('majestibannerheavy-webfont.eot');
+    src: url('majestibannerheavy-webfont.eot?#iefix') format('embedded-opentype'),
+         url('majestibannerheavy-webfont.woff2') format('woff2'),
+         url('majestibannerheavy-webfont.woff') format('woff'),
+         url('majestibannerheavy-webfont.svg#majesti_banner_heavyregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'majesti_banner_heavyitalicRg';
+    src: url('majestibannerheavyitalic-webfont.eot');
+    src: url('majestibannerheavyitalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('majestibannerheavyitalic-webfont.woff2') format('woff2'),
+         url('majestibannerheavyitalic-webfont.woff') format('woff'),
+         url('majestibannerheavyitalic-webfont.svg#majesti_banner_heavyitalicRg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+@font-face {
+    font-family: 'majesti_banner_lightregular';
+    src: url('majestibannerlight-webfont.eot');
+    src: url('majestibannerlight-webfont.eot?#iefix') format('embedded-opentype'),
+         url('majestibannerlight-webfont.woff2') format('woff2'),
+         url('majestibannerlight-webfont.woff') format('woff'),
+         url('majestibannerlight-webfont.svg#majesti_banner_lightregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'majesti_banner_lightitalicRg';
+    src: url('majestibannerlightitalic-webfont.eot');
+    src: url('majestibannerlightitalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('majestibannerlightitalic-webfont.woff2') format('woff2'),
+         url('majestibannerlightitalic-webfont.woff') format('woff'),
+         url('majestibannerlightitalic-webfont.svg#majesti_banner_lightitalicRg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'majesti_banner_mediumregular';
+    src: url('majestibannermedium-webfont.eot');
+    src: url('majestibannermedium-webfont.eot?#iefix') format('embedded-opentype'),
+         url('majestibannermedium-webfont.woff2') format('woff2'),
+         url('majestibannermedium-webfont.woff') format('woff'),
+         url('majestibannermedium-webfont.svg#majesti_banner_mediumregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'majesti_banner_mediumitalicRg';
+    src: url('majestibannermediumitalic-webfont.eot');
+    src: url('majestibannermediumitalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('majestibannermediumitalic-webfont.woff2') format('woff2'),
+         url('majestibannermediumitalic-webfont.woff') format('woff'),
+         url('majestibannermediumitalic-webfont.svg#majesti_banner_mediumitalicRg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
